@@ -2,7 +2,7 @@
 * @Author: bear
 * @Date:   2019-03-18 15:21:54
 * @Last Modified by:   bear
-* @Last Modified time: 2019-03-18 20:30:00
+* @Last Modified time: 2019-03-18 23:40:07
 */
 
 #include <stdio.h>
@@ -21,7 +21,7 @@ struct funds
 float sum(double x, double y) {
 
 	return x + y;
-};
+}
 
 
 
