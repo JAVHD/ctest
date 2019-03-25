@@ -2,7 +2,7 @@
 * @Author: bear
 * @Date:   2018-11-19 11:21:01
 * @Last Modified by:   bear
-* @Last Modified time: 2018-11-19 11:24:37
+* @Last Modified time: 2019-03-25 11:02:19
 */
 
 #include <stdio.h>
@@ -20,6 +20,11 @@ int main(int argc, char const *argv[])
 			printf("the argv is %s\n", argv[i]);
 		}
 	}
+
+	// beardeMacBook-Pro:c bear$ ./main
+	// argc value is 1
+	// the argv is ./main
+
 
 	return 0;
 }
